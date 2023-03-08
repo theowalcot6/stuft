@@ -12,7 +12,7 @@
 }
 
 .left > h4 {
-    font-family: 'Inter V';
+    font-family: Inter V,sans-serif;
     font-weight:600;
     color: rgba(13, 31, 161, 1);
     margin:0;
@@ -21,7 +21,7 @@
 
 .left > h3 {
     color:#00033d;
-    font-family:'Inter V';
+    font-family:Inter V,sans-serif;
     font-weight:600;
     font-size:22px;
     margin:0;
@@ -52,7 +52,7 @@
     width:75%;
     min-width:250px;
     box-shadow: 0px 0.01px 20px 0.01px #cdcdcd;
-    font-family:Inter V;
+    font-family:Inter V,sans-serif;
     text-align:center;
 }
 
