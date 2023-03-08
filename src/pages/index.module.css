@@ -58,7 +58,7 @@
 }
 
 .top_index_left > h1 {
-    font-family:Inter V;
+    font-family:Inter V,sans-serif;
     font-size:50px;
     font-weight:600;
     color: #00033d;
