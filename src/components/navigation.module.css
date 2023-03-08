@@ -33,7 +33,7 @@
 
 .nav_list > li {
     list-style-type:none;  
-    font-family: 'Inter V';
+    font-family: Inter V,sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -55,7 +55,7 @@
     text-decoration:none;
     color: #ffffff;
     font-size:15px;
-    font-family:Inter V;
+    font-family:Inter V,sans-serif;
 }
 
 .nav_list > li > a > button {
