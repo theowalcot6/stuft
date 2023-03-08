@@ -1,12 +1,12 @@
 .form {
     display:flex;
     flex-direction:column;
-    font-family:'Inter V';
+    font-family:Inter V,sans-serif;
 
 }
 
 ::placeholder {
-    font-family:'Inter V';
+    font-family:Inter V,sans-serif;
     opacity:0.5;
     letter-spacing:0.7px;
     font-size:14px;
