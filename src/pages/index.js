@@ -2,6 +2,9 @@
 import * as React from 'react'
 import Navigation from '../components/navigation'
 import { Link } from 'gatsby'
+
+import { Helmet } from 'react-helmet';
+      
 import {
   get_started,
   top_index,
@@ -37,6 +40,9 @@ const HomePage = () => {
   return (
 
     <div>
+    <Helmet>
+        <title>Home page</title>
+     </Helmet>
     <Navigation />
     
     <main>
