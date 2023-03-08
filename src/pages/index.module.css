@@ -311,6 +311,7 @@ body {
     font-weight:600;
     letter-spacing:0.5px;
     cursor:pointer;
+    font-size:15px;
 }
 
 .bottom_cta_button:hover {
@@ -326,6 +327,6 @@ body {
 .bottom_cta > p {
     color:white;
     font-family:Inter V,sans-serif;
-    font-size:14px;
+    font-size:16px;
     font-weight:400;
 }
