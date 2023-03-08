@@ -41,7 +41,7 @@ const HomePage = () => {
 
     <div>
     <Helmet>
-        <title>Home page</title>
+        <title>Stuft</title>
      </Helmet>
     <Navigation />
     
